@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "This is a rock, paper, scissors game"
   spec.description   = "It's a game"
-  spec.homepage      = "https://github.com/gweinert/assignment_gems_sprint"
+  spec.homepage      = "https://github.com/gweinert/garrettsRps"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
