@@ -1,4 +1,4 @@
-module Rps
+module GarrettsRps
 
   class Computer
 

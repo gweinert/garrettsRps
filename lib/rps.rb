@@ -2,7 +2,7 @@ require "rps/version"
 require "rps/player"
 require "rps/computer.rb"
 
-module Rps
+module GarrettsRps
   
   class RockPaperScissors
 
@@ -69,5 +69,5 @@ module Rps
     end
 
   end
-  
+
 end

@@ -1,4 +1,5 @@
-module Rps
+
+module GarrettsRps
 
   class Player
 
